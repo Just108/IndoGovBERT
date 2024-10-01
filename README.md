@@ -12,3 +12,9 @@
 
 ## Acknowledgment
 - text-dedup: [Link to project](https://github.com/ChenghaoMou/text-dedup)
+- lang-detect: [Link to project](https://pypi.org/project/langdetect/)
+- tesseract: [Link to project](https://github.com/tesseract-ocr/tesseract)
+- autocorrect: [Link to project](https://github.com/filyp/autocorrect)
+- minhash: [Link to project](https://ekzhu.com/datasketch/minhash.html)
+- MLTM: [Link to project](https://github.com/hsoleimani/MLTM)
+
