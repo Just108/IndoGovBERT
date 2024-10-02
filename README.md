@@ -10,6 +10,9 @@
 - Wirawan's-FT-C2: [just-108/IndoGovBERT-Wirawans-FT-C2](https://huggingface.co/just-108/IndoGovBERT-Wirawans-FT-C2)
 - Wirawan's-FT-C3: [just-108/IndoGovBERT-Wirawans-FT-C3](https://huggingface.co/just-108/IndoGovBERT-Wirawans-FT-C3)
 
+## Corpus
+- C2: [Link to corpus](https://huggingface.co/datasets/just-108/C2)
+  
 ## Acknowledgment
 - text-dedup: [Link to project](https://github.com/ChenghaoMou/text-dedup)
 - lang-detect: [Link to project](https://pypi.org/project/langdetect/)
