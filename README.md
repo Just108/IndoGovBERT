@@ -41,6 +41,7 @@ Riyadi, A., Kovacs, M., Serdült, U., & Kryssanov, V. (2024). IndoGovBERT: A Dom
   pages={153},
   year={2024},
   publisher={Multidisciplinary Digital Publishing Institute},
+  doi = {10.3390/bdcc8110153}
 } 
 
 
